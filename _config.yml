@@ -16,7 +16,7 @@ repo: https://github.com/ReproNim/module-template
 root: "/module-template"
 
 # Contact email address.
-email: debian@onerussian.com
+email: sam.nastase@gmail.com
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
