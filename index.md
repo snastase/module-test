@@ -6,13 +6,13 @@ Samuel A. Nastase
 snastase@princeton.edu
 
 **Schedule**  
-September 5 to November 14  
+September 19 to November 21  
 Thursdays, 2:30&ndash;4:00 pm
 
-**Target audience:** Graduate students and postdocs in psychology and
-neuroscience with basic programming experience.
+**Target audience:** Graduate students, research assistants, lab managers, and
+postdocs in psychology and neuroscience with basic programming experience.
 
-**Prerequisites**: Make sure you have an account on the server and are
+**Prerequisites:** Make sure you have an account on the server and are
 familiar with logging in. Bring your laptop!
 
 Over the course of this training program, we’ll introduce concepts and tools
@@ -28,7 +28,7 @@ you're currently facing, and how you've incorporated concepts and tools from
 the previous episodes into your daily workflow.
 
 **Episode 0:** Introduction&mdash;a fully-reproducible workflow  
-Reading assignment: Ghosh, S. S., Poline, J. B., Keator, D. B., Halchenko,
+> Reading assignment: Ghosh, S. S., Poline, J. B., Keator, D. B., Halchenko,
 Y. O., Thomas, A. G., Kessler, D. A., & Kennedy, D. N. (2017). A very
 simple, re-executable neuroimaging publication. _F1000Research_, 6.
 https://doi.org/10.12688/f1000research.10783.2
